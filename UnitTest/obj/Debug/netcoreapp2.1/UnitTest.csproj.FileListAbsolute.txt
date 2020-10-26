@@ -1,0 +1,17 @@
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\FechaControl.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\FechaControl.pdb
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\fmolina\source\repos\FechaControl\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

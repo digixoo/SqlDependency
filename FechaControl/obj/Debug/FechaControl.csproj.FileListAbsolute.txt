@@ -1,0 +1,6 @@
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\bin\Debug\FechaControl.dll
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\bin\Debug\FechaControl.pdb
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\obj\Debug\FechaControl.csprojAssemblyReference.cache
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\obj\Debug\FechaControl.csproj.CoreCompileInputs.cache
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\obj\Debug\FechaControl.dll
+C:\Users\fmolina\source\repos\FechaControl\FechaControl\obj\Debug\FechaControl.pdb

@@ -1,0 +1,6 @@
+C:\Users\fmolina\source\repos\FechaControl\Database\bin\Debug\Database.dacpac
+C:\Users\fmolina\source\repos\FechaControl\Database\bin\Debug\Database.dll
+C:\Users\fmolina\source\repos\FechaControl\Database\bin\Debug\Database.pdb
+C:\Users\fmolina\source\repos\FechaControl\Database\obj\Debug\Database.dll
+C:\Users\fmolina\source\repos\FechaControl\Database\obj\Debug\Database.pdb
+C:\Users\fmolina\source\repos\FechaControl\Database\obj\Debug\Database.sqlprojAssemblyReference.cache

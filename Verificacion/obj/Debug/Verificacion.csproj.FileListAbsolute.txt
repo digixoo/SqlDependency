@@ -1,0 +1,10 @@
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\bin\Debug\Verificacion.exe.config
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\bin\Debug\Verificacion.exe
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\bin\Debug\FechaControl.dll
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\bin\Debug\FechaControl.pdb
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\obj\Debug\Verificacion.csprojAssemblyReference.cache
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\obj\Debug\Verificacion.csproj.CopyComplete
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\obj\Debug\Verificacion.exe
+C:\Users\fmolina\source\repos\FechaControl\Verificacion\obj\Debug\Verificacion.pdb
